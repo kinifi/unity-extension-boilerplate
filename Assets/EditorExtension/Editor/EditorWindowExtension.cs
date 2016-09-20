@@ -52,6 +52,12 @@ public class EditorWindowExtension : EditorWindow
 		}
 
 
+		//draw your GUI Here
+
+		GUILayout.Label("My Awesome Name: " + mLevel.m_newName);
+
+
+
 	}
 
 
